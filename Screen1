@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cooking</title>
+</head>
+<body>
+
+
+<h1 style="color:Black;">Cooking</h1>
+
+
+<div class="container">
+  <h2>Are you Non Vegetarian or Vegetarian?</h2>
+  <a href="http://www.google.com" class="btn btn-info" role="button">Vegetarian</a>
+  <a href="http://www.google.com" class="btn btn-info" role="button">Non Vegetarian</a>
+  
+</div>
+</div>
+
+
+
+
+</body>
+</html>
