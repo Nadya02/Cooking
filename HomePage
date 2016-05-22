@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<body style="background-color:yellow;">
+<head>
+  <center><h1 style="color:Black;">Welcome to MasterChef Cooking!</h1></center>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<center><img src="https://github.com/Nadya02/Cooking/blob/master/sdBV.jpg?raw=true" alt="Mountain View" style="width:400px;height:350px;"></center>
+
+<style>
+.button {
+    background-color:#000000; /*Black */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button5 {background-color: #000000;} /* Black */
+</style>
+
+<center><button class="button button5">Let's Get Started!</button> </center>
+</style>
+</div>
+
+</head>
+<body>
+
+</body>
+</html>
