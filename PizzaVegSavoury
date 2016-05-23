@@ -1,6 +1,6 @@
 <!DOCTYPE html>
- 
-<h1 style="color:Green;"><center>Pizza!!</h1></center>
+ <body style="background-color:#ccffff;">
+<h1 style="color:Black;"><center>Pizza!!</h1></center>
 
 
 <h2> Pizza Ready in just 13 min!! </h2>
@@ -35,5 +35,3 @@
 <h3> You're  Pitta Pizza is Ready!! <h3>
  </body>
  </html>
-
-
