@@ -1,6 +1,6 @@
 <!DOCTYPE html>
- 
-<h1 style="color:Blue;"><center>Fettuccine!!</h1></center>
+ <body style="background-color:#ccffff;">
+<h1 style="color:Black;"><center>Fettuccine!!</h1></center>
 
 
 <h2> Fettuccine Ready in just 15 min! </h2>
@@ -32,6 +32,3 @@
 <h3>You're Fettuccine is Ready!! <h3>
  </body>
  </html>
-
-
-
