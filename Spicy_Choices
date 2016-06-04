@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<body style="background-color: #00ffff;">
+  <center><h1 style="color:BlACK;"> Spicy!</h1></center
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+
+<style>
+.button {
+    background-color:Black
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button5 {background-color: Black
+</style>
+<center><a class="button button5" href="/Screen1">Spicy Guac</a> 
+<a class="button button5" href="/Screen1">Chili Fries</a></center> 
+
+
+</style>
+</center>
+</style>
+</div>
+</head>
+<body>
+</body>
+</html>
